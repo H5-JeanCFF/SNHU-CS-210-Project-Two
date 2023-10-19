@@ -13,8 +13,7 @@ int main()
     // Show prompts.
     userInvestment.showInputPrompts();
 
-    // Get user inputs.
-    // Call this function again if the inputs are incorrect
+    // Call this function while the inputs are incorrect (false)
     while (!userInvestment.getUserValues()) {
         std::cout << "Try again." << std::endl;
     } 
