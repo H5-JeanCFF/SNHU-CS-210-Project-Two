@@ -1,7 +1,7 @@
 # SNHU CS 210 Project Two
 # Airgead Banking App Overview
 The Airgead Banking App is a C++ application designed to provide users with a clear understanding of how their investments can grow over time, with a specific focus on the power of compound interest. The application allows users to input their initial investment amount, monthly deposit, annual interest rate, and the number of years they intend to invest for. The app generates detailed reports displaying year-end balances and earned interest, both with and without additional monthly deposits. This feature enables users to make informed investment decisions and comprehend the benefits of compound interest.
-# Requirements
+# Requirements for the completion of this project
 Screen Display: A screen interface where users can input the following details:
 - Initial Investment Amount
 - Monthly Deposit
